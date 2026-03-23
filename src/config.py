@@ -1,0 +1,1 @@
+# Cấu hình chung cho dự án
